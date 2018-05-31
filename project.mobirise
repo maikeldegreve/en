@@ -35,7 +35,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "",
+    "google-analytics": "UA-120197190-1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
